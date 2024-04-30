@@ -15,16 +15,6 @@ This is a custom React component library for creating responsive images with mai
 
 ## Installation
 
-To install the package, use npm or yarn:
-
-```bash
-npm install @your-username/resp-image
-```
-or
-```bash
-yarn add @your-username/resp-image
-```
-
 ## Usage
 
 1. Import the `RespImage` component into your project:
